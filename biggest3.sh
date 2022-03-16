@@ -9,3 +9,4 @@ then echo " $num2 is greater"
 else
 	echo "$num3 is greater"
 fi
+edited from Lohras
